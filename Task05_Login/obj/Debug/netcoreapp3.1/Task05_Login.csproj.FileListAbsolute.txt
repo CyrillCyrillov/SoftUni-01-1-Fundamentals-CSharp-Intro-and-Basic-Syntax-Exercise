@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.exe
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.deps.json
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\bin\Debug\netcoreapp3.1\Task05_Login.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task05_Login\obj\Debug\netcoreapp3.1\Task05_Login.genruntimeconfig.cache
