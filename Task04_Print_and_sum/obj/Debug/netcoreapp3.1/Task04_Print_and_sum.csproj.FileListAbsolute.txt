@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.exe
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.deps.json
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\bin\Debug\netcoreapp3.1\Task04_Print_and_sum.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task04_Print_and_sum\obj\Debug\netcoreapp3.1\Task04_Print_and_sum.genruntimeconfig.cache
