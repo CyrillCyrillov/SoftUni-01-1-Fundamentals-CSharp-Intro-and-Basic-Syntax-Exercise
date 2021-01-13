@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.exe
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.deps.json
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\bin\Debug\netcoreapp3.1\Task06_Strong_number.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.dll
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.pdb
+C:\Users\Kiril\source\repos\Exercise_01\Task06_Strong_number\obj\Debug\netcoreapp3.1\Task06_Strong_number.genruntimeconfig.cache
